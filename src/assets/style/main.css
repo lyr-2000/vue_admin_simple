@@ -1,0 +1,34 @@
+
+/*
+取消 bootstrap点击阴影
+*/
+
+.btn:focus{
+    box-shadow:none!important;
+
+}
+
+.form-control:focus{
+    /*border-color:#fff;*/
+    border-color: blue;
+    box-shadow:none;
+}
+input{
+    box-shadow: none;
+}
+
+
+/*动态渲染的，要放到全局样式*/
+.vjs-time-control {
+    display:block !important;
+}
+.vjs-remaining-time {
+    display:none !important;
+}
+
+.vjs-no-flex .vjs-current-time{
+    padding-right: 0;
+}
+.vjs-time-control.vjs-control{
+     padding-left: 0;
+ }

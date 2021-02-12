@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="smile-wink" unicode="&#59240;" d="M512 768C300.256 768 128 595.744 128 384s172.256-384 384-384 384 172.256 384 384S723.744 768 512 768z m0-64c177.12 0 320-142.88 320-320s-142.88-320-320-320S192 206.88 192 384 334.88 704 512 704z m-144-192a48 48 0 1 1 0-96 48 48 0 0 1 0 96z m208-32v-64h160v64z m95.008-128.992c0-53.888-21.632-91.264-53.024-118.016C586.624 206.24 545.12 192 512 192c-67.872 0-114.016 27.52-150.016 63.008L316.992 208.96C361.632 165.152 426.24 128 512 128c49.76 0 104.384 18.752 148 56 43.616 37.248 75.008 94.72 75.008 167.008z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
