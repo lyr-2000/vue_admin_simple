@@ -1,24 +1,5 @@
 # backend_blog
 
 ## Project setup
-```
-npm install
-```
+搭建好的后台管理项目配置，方便下次可以直接用
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
